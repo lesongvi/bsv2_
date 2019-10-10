@@ -1,0 +1,6 @@
+new Bar:bar = CreateProgressBar(501.00, 422.00, 120.50, 13.19, 65535, 100.0);
+ShowProgressBarForAll(bar);
+
+Now, take a look at the official SA:MP forum topic to know how to use this:
+
+http://forum.sa-mp.com/index.php?topic=138556

@@ -1,0 +1,8 @@
+//At The Top Of The Script:
+new DowntownShootersGangzone;
+
+//Under OnGameModeInit
+DowntownShootersGangzone = GangZoneCreate(-1734.705566, -2317.808593, -1574.705566, -2141.808593);
+
+//Under OnPlayerSpawn:
+GangZoneShowForPlayer(playerid, DowntownSho

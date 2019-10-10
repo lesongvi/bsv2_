@@ -1,0 +1,8 @@
+//At The Top Of The Script:
+new EastCoastMafiaGangzone;
+
+//Under OnGameModeInit
+EastCoastMafiaGangzone = GangZoneCreate(-1487.904785, -2389.422607, -1279.904785, -2181.422607);
+
+//Under OnPlayerSpawn:
+GangZoneShowForPlayer(playerid, EastCoastMafiaG

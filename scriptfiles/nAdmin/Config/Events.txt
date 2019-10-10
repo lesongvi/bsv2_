@@ -1,0 +1,4 @@
+CoordX=1059.895996
+CoordY=2081.685791
+CoordZ=10.820311
+Interior=0

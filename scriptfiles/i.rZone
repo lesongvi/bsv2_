@@ -1,0 +1,8 @@
+//At The Top Of The Script:
+new i;
+
+//Under OnGameModeInit
+i = GangZoneCreate(-1477.536132, -2370.017089, -1477.536132, -2370.017089);
+
+//Under OnPlayerSpawn:
+GangZoneShowForPlayer(playerid, i, -16777017);
